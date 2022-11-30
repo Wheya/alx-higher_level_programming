@@ -1,1 +1,1 @@
-My 0x01-python-if_else_loops_functions
+My 0x01-python-if_else_loops_functions task
